@@ -24,7 +24,7 @@
 32C:\Projects\my-resume\.gitignore133087427224317279 0
 92C:\Projects\my-resume\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\mtest5.c133087433036399855 0
 85C:\Projects\my-resume\node_modules\@parcel\source-map\parcel_sourcemap_wasm\dist-node133087433037895850 1
-26C:\Projects\my-resume\dist133087500285124625 1
+26C:\Projects\my-resume\dist133087506080372075 1
 53C:\Projects\my-resume\node_modules\msgpackr\pack.d.ts133087433030904547 0
 59C:\Projects\my-resume\node_modules\svgo\lib\svgo\plugins.js133087433030465719 0
 60C:\Projects\my-resume\node_modules\@parcel\codeframe\LICENSE133087433010345045 0
@@ -76,7 +76,7 @@
 73C:\Projects\my-resume\node_modules\@babel\highlight\node_modules\has-flag133087433013249387 1
 83C:\Projects\my-resume\node_modules\css-select\lib\pseudo-selectors\aliases.d.ts.map133087433021616984 0
 29C:\Projects\my-resume\src\img133087461837335350 1
-36C:\Projects\my-resume\src\index.html133087500283229666 0
+36C:\Projects\my-resume\src\index.html133087506079339960 0
 86C:\Projects\my-resume\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mdb_load.c133087433031861985 0
 67C:\Projects\my-resume\node_modules\type-fest\source\promisable.d.ts133087433028600705 0
 70C:\Projects\my-resume\node_modules\@parcel\watcher\prebuilds\win32-x64133087433033986304 1
@@ -4171,7 +4171,7 @@
 48C:\Projects\my-resume\dist\index.579125c3.js.map133087480323630296 0
 44C:\Projects\my-resume\dist\index.58a03d8a.js133087441793332213 0
 49C:\Projects\my-resume\dist\index.c92073ef.css.map133087480323630296 0
-37C:\Projects\my-resume\dist\index.html133087500285115594 0
+37C:\Projects\my-resume\dist\index.html133087506080357639 0
 48C:\Projects\my-resume\dist\my-resume.59712999.js133087480323540549 0
 52C:\Projects\my-resume\dist\my-resume.59712999.js.map133087480323630296 0
 39C:\Projects\my-resume\.github\workflows133087437110675040 1
